@@ -13,6 +13,7 @@ namespace _5.Syntax_Errors
         static void Main(string[] args)
         {
             Console.WriteLine("What Is Dead May Never Die");
+            Console.ReadKey();
         }
     }
 }
