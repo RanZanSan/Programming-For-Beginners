@@ -9,6 +9,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basics", "Basics", "{AA2372
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Comments", "2. Comments\2. Comments.csproj", "{4E3E93D6-7FF2-4BA6-9630-8564AB4BB1BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Comments. Task", "2. Comments. Task\2. Comments. Task.csproj", "{79091EDD-0848-4E15-9996-236AFDAE77DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Statements (Инструкции)", "3. Statements (Инструкции)\3. Statements (Инструкции).csproj", "{EB437786-54F5-47D7-8218-CEF0E593801B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Statements (Инструкции). Task", "3. Statements (Инструкции). Task\3. Statements (Инструкции). Task.csproj", "{3FC9C92B-E209-48AF-BF87-709D641F3E6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Just Training", "4. Just Training\4. Just Training.csproj", "{709CB345-3B2E-453D-A5B0-8A763A218D8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Syntax Errors", "5. Syntax Errors\5. Syntax Errors.csproj", "{AD1472C5-CF68-4F42-AC9B-04F6D1B5E36F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +33,26 @@ Global
 		{4E3E93D6-7FF2-4BA6-9630-8564AB4BB1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E3E93D6-7FF2-4BA6-9630-8564AB4BB1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E3E93D6-7FF2-4BA6-9630-8564AB4BB1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79091EDD-0848-4E15-9996-236AFDAE77DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79091EDD-0848-4E15-9996-236AFDAE77DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79091EDD-0848-4E15-9996-236AFDAE77DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79091EDD-0848-4E15-9996-236AFDAE77DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB437786-54F5-47D7-8218-CEF0E593801B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB437786-54F5-47D7-8218-CEF0E593801B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB437786-54F5-47D7-8218-CEF0E593801B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB437786-54F5-47D7-8218-CEF0E593801B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC9C92B-E209-48AF-BF87-709D641F3E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC9C92B-E209-48AF-BF87-709D641F3E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC9C92B-E209-48AF-BF87-709D641F3E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC9C92B-E209-48AF-BF87-709D641F3E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{709CB345-3B2E-453D-A5B0-8A763A218D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709CB345-3B2E-453D-A5B0-8A763A218D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709CB345-3B2E-453D-A5B0-8A763A218D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709CB345-3B2E-453D-A5B0-8A763A218D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD1472C5-CF68-4F42-AC9B-04F6D1B5E36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1472C5-CF68-4F42-AC9B-04F6D1B5E36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1472C5-CF68-4F42-AC9B-04F6D1B5E36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1472C5-CF68-4F42-AC9B-04F6D1B5E36F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +60,11 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{F0A8656A-6486-4D8F-A6FF-B9F6EE19988C} = {AA2372AA-F85E-42E8-AC46-75D663DF07CD}
 		{4E3E93D6-7FF2-4BA6-9630-8564AB4BB1BB} = {AA2372AA-F85E-42E8-AC46-75D663DF07CD}
+		{79091EDD-0848-4E15-9996-236AFDAE77DF} = {AA2372AA-F85E-42E8-AC46-75D663DF07CD}
+		{EB437786-54F5-47D7-8218-CEF0E593801B} = {AA2372AA-F85E-42E8-AC46-75D663DF07CD}
+		{3FC9C92B-E209-48AF-BF87-709D641F3E6D} = {AA2372AA-F85E-42E8-AC46-75D663DF07CD}
+		{709CB345-3B2E-453D-A5B0-8A763A218D8B} = {AA2372AA-F85E-42E8-AC46-75D663DF07CD}
+		{AD1472C5-CF68-4F42-AC9B-04F6D1B5E36F} = {AA2372AA-F85E-42E8-AC46-75D663DF07CD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {713BAA37-F8C0-49A2-94C5-720B6E7D54AD}
