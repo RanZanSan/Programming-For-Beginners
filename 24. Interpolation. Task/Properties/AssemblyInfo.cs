@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("24. Interpolation. Example")]
+[assembly: AssemblyTitle("24. Interpolation. Task")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("24. Interpolation. Example")]
+[assembly: AssemblyProduct("24. Interpolation. Task")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("1ab6ee85-c548-4907-b564-198bcd32af74")]
+[assembly: Guid("d8b3e78b-7603-49b4-973f-85c4dd1533e4")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

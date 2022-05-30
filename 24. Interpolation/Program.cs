@@ -4,21 +4,27 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/*
- * Задание
- * Выведите на экран строку Do you want to eat, <name>?, где вместо <name> должна использоваться константа stark.
- * Вывод должен получиться таким:
- */
-
-namespace _24.Interpolation.Task
+namespace _24.Interpolation
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var stark = "Arya";
+            // В уроке про конкатенацию перед нами стояла задача создать заголовок письма из двух констант и знаков препинания. Вы, скорее всего, решили задачу так:
+            var firstName = "Joffrey";
+            var greeting = "Hello";
 
-            Console.WriteLine($"Do you want to eat, {stark}?");
+            Console.WriteLine(greeting + ", " + firstName + "!");
+            // => "Hello, Joffrey!"
+            Console.ReadKey();
+
+            //Есть другой, более удобный и изящный способ решения той же задачи — интерполяция. Вот, как это выглядит:
+            firstName = "Joffrey";
+            greeting = "Hello";
+
+            // Обратите внимание на знак доллара перед началом строки
+            Console.WriteLine($"{greeting}, {firstName}!");
+            // => "Hello, Joffrey!"
             Console.ReadKey();
         }
     }

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BAA1EFCB-E9CE-4D23-8D83-ED3B8B3C4F81}</ProjectGuid>
+    <ProjectGuid>{8C0B5000-3231-45D3-8575-FE4D1792FC97}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_24.Interpolation</RootNamespace>
     <AssemblyName>_24.Interpolation</AssemblyName>
