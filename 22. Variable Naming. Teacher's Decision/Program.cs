@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _17.Changing_A_Variable.Task
+namespace _22.Variable_Naming.Teacher_s_Decision
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var name = "Brienna";
-            name = "anneirB";
+            var firstNumber = 11;
+            var secondNumber = -100;
 
-            Console.WriteLine(name);
+            Console.WriteLine(firstNumber * secondNumber);
             Console.ReadKey();
         }
     }
