@@ -105,7 +105,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23. Magic Numbers. Task", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23. Magic Numbers. Teacher's Decision", "23. Magic Numbers. Teacher's Decision\23. Magic Numbers. Teacher's Decision.csproj", "{C59C857A-317F-4A95-B15E-E4486BD60B7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24. Interpolation", "24. Interpolation\24. Interpolation.csproj", "{BAA1EFCB-E9CE-4D23-8D83-ED3B8B3C4F81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24. Interpolation. Task", "24. Interpolation\24. Interpolation. Task.csproj", "{BAA1EFCB-E9CE-4D23-8D83-ED3B8B3C4F81}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24. Interpolation. Example", "24. Interpolation. Example\24. Interpolation. Example.csproj", "{1AB6EE85-C548-4907-B564-198BCD32AF74}"
 EndProject

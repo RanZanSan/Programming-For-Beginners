@@ -10,7 +10,7 @@ using System.Threading.Tasks;
  * Вывод должен получиться таким:
  */
 
-namespace _24.Interpolation
+namespace _24.Interpolation.Task
 {
     class Program
     {
