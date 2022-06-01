@@ -14,7 +14,8 @@ namespace _26.Explicit_Typing
             int x = 3;
             string greeting = "Hello Hexlet!";
 
-            int ops = "test"; // error CS0029: Cannot implicitly convert type 'string' to 'int'
+            // int ops = "test"; // error CS0029: Cannot implicitly convert type 'string' to 'int'
+            Console.ReadKey();
         }
     }
 }
