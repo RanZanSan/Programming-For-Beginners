@@ -12,10 +12,10 @@ namespace _23.Magic_Numbers.Task
         {
             var king = "King Balon the 6th";
 
-            int countCastles = 6;
-            int countRoomsOneCastle = 17;
+            var countCastles = 6;
+            var countRoomsOneCastle = 17;
 
-            int totalCountRooms = countCastles * countRoomsOneCastle;
+            var totalCountRooms = countCastles * countRoomsOneCastle;
 
             Console.WriteLine(king + " has " + totalCountRooms + " rooms.");
             Console.ReadKey();

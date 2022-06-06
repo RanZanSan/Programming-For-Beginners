@@ -21,7 +21,8 @@ namespace _27.What_Are_The_Types
             Console.ReadKey();
 
             // операция [] извлекает из строки символ с нужным номером. Нумерация начинается с 0
-            // "hexlet"[1]; // 'e'
+            Console.WriteLine("hexlet"[1]); // 'e'
+            Console.ReadKey();
         }
     }
 }
