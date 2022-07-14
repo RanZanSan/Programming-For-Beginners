@@ -349,6 +349,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64. For Cycle", "64. For Cy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64. For Cycle. Task", "64. For Cycle. Task\64. For Cycle. Task.csproj", "{38FF3032-3791-4F65-989A-239368996D45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64. For Cycle. Teacher's Decision", "64. For Cycle. Teacher's Decision\64. For Cycle. Teacher's Decision.csproj", "{E192E008-73A2-4979-B782-6E2CB917D5C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1007,6 +1009,10 @@ Global
 		{38FF3032-3791-4F65-989A-239368996D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38FF3032-3791-4F65-989A-239368996D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38FF3032-3791-4F65-989A-239368996D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E192E008-73A2-4979-B782-6E2CB917D5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E192E008-73A2-4979-B782-6E2CB917D5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E192E008-73A2-4979-B782-6E2CB917D5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E192E008-73A2-4979-B782-6E2CB917D5C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1175,6 +1181,7 @@ Global
 		{83AC74FA-03DB-4E5A-ABF2-7B7815CCF75E} = {EC92A6F3-C1F2-4C26-9389-CBA1350C4141}
 		{AD4BD368-A860-4F51-A3AD-26A254CF02BD} = {EC92A6F3-C1F2-4C26-9389-CBA1350C4141}
 		{38FF3032-3791-4F65-989A-239368996D45} = {EC92A6F3-C1F2-4C26-9389-CBA1350C4141}
+		{E192E008-73A2-4979-B782-6E2CB917D5C3} = {EC92A6F3-C1F2-4C26-9389-CBA1350C4141}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {713BAA37-F8C0-49A2-94C5-720B6E7D54AD}

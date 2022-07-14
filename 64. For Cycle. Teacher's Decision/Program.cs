@@ -4,35 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _64.For_Cycle.Task
+namespace _64.For_Cycle.Teacher_s_Decision
 {
     class App
     {
         public static string Encrypt(string str)
         {
-            var result = string.Empty;
-
-            if (str.Length % 2 == 0)
+            var result = "";
+            for (var i = 0; i < str.Length; i += 2)
             {
-                for (int index = 0; index < str.Length; index++)
+                if (i == str.Length - 1)
                 {
-                    if (index % 2 == 0)
-                        result += str[index + 1];
-                    else
-                        result += str[index - 1];
+                    result += str[i];
                 }
-            }
-            else
-            {
-                for (int index = 0; index < str.Length - 1; index++)
+                else
                 {
-                    if (index % 2 == 0)
-                        result += str[index + 1];
-                    else
-                        result += str[index - 1];
+                    var firstChar = str[i];
+                    var secondChar = str[i + 1];
+                    result = result + secondChar + firstChar;
                 }
-
-                result += str.Last();
             }
 
             return result;
