@@ -21,6 +21,8 @@ namespace _25.Why_Data_Types_Are_Needed
 
             // Компилятор понимает что тут число
             var age = 33;
+            Console.WriteLine(age);
+            Console.ReadKey();
         }
     }
 }

@@ -10,8 +10,8 @@ namespace _42.Method_Parameters.Task
     {
         public static string Truncate(string text, int number)
         {
-            var newNext = text.Remove(number) + "...";
-            return newNext;
+            var newText = text.Remove(number) + "...";
+            return newText;
         }
     }
 

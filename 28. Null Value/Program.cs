@@ -13,6 +13,7 @@ namespace _28.Null_Value
             // Определение переменной с инициализацией null
             // С var такое не сработает, так как невозможно вывести тип
             string a = null;
+            Console.WriteLine(a);
 
             /*
              * var user = 
@@ -23,6 +24,7 @@ namespace _28.Null_Value
              */
 
             // int x = null; // error CS0037: Cannot convert null to 'int' because it is a non-nullable value type
+            Console.ReadKey();
         }
     }
 }

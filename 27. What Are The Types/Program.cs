@@ -11,11 +11,13 @@ namespace _27.What_Are_The_Types
         static void Main(string[] args)
         {
             byte x = 3; // Отработает без проблем
+            Console.WriteLine(x);
 
             // byte y = 270; // error CS0031: Constant value '270' cannot be converted to a 'byte'
             Console.ReadKey();
 
             char ch = 'a';
+            Console.WriteLine(ch);
 
             // char ch2 = "b"; // error CS0029: Cannot implicitly convert type 'string' to 'char'
             Console.ReadKey();
