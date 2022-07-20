@@ -12,6 +12,7 @@ namespace _21.Variables_And_Concatenation
         {
             // Переменные и конкатенацию можно объединять. Синтаксически ничего не меняется: мы умеем конкатенировать (склеивать) две строки:
             var what = "Kings" + "road";
+
             Console.WriteLine(what); // => "Kingsroad"
             Console.ReadKey();
 

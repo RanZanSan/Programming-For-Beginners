@@ -14,6 +14,7 @@ namespace _40.Creating__Defining__A_Method.Task
             Console.WriteLine(text);
         }
     }
+
     class Program
     {
         static void Main(string[] args)

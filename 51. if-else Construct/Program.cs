@@ -53,6 +53,8 @@ namespace _51.if_else_Construct
              * // продолжаем что-то делать
              * // else не нужен
              */
+
+            Console.ReadKey();
         }
     }
 }

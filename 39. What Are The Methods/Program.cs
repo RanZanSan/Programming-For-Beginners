@@ -42,6 +42,8 @@ namespace _39.What_Are_The_Methods
              * Чтение текста из указанного файла
              * File.ReadAllText("readme.txt");
              */
+
+            Console.ReadKey();
         }
     }
 }

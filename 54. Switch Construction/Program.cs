@@ -75,6 +75,8 @@ namespace _54.Switch_Construction
              *          break;
              * }
              */
+
+            Console.ReadKey();
         }
     }
 }

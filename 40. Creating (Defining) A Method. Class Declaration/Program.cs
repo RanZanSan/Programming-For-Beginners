@@ -39,6 +39,8 @@ namespace _40.Creating__Defining__A_Method.Class_Declaration
             App.ShowCurrentDate();
 
             App.Noop();
+
+            Console.ReadKey();
         }
     }
 }

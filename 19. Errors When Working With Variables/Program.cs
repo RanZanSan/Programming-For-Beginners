@@ -23,6 +23,8 @@ namespace _19.Errors_When_Working_With_Variables
              * var greeting = "Father!";
              * Так делать нельзя. Придётся создать новую переменную.
              */
+
+            Console.ReadKey();
         }
     }
 }

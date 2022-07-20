@@ -14,6 +14,7 @@ namespace _17.Changing_A_Variable
             var greeting = "Father!";
             Console.WriteLine(greeting);
             Console.WriteLine(greeting);
+            Console.ReadKey();
 
             // var уже не используется, так как переменная была определена выше
             greeting = "Mother!";
